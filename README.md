@@ -50,4 +50,5 @@
    
    ![Program 1](https://user-images.githubusercontent.com/24362384/68926095-4407e880-07b7-11ea-8e20-eb0e4fd5e476.PNG)
   
-  <p> Kurang lebihnya mohon maaf. Sekian dan terima kasih. </p>
+  <p> Kurang lebihnya mohon maaf. </br>
+  Sekian dan terima kasih. </p>
